@@ -70,7 +70,7 @@ const routes = [{
     ]
 }]
 const router = createRouter({ history: createWebHistory(), routes })
-//022201230237王超磊
+//022201230237wcl
 app.use(naive)
 app.use(router)
 app.mount("#app")
