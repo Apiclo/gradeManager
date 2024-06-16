@@ -2,7 +2,7 @@ import { fileURLToPath, URL } from 'node:url'
 
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
-//022201230237王超磊
+//022201230237wcl
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [
