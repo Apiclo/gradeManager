@@ -1,0 +1,68 @@
+* {
+    transition: 160ms;
+}
+
+.n-layout-header {
+    background-color: #e6ebff;
+    border-bottom: #e2e8ff 1px solid;
+}
+
+.n-table {
+    min-width: 500px;
+    max-width: 800px;
+}
+
+.n-layout-scroll-container {
+    box-shadow: inset 10px 10px 10px -10px rgba(0, 76, 255, 0.296);
+    border-radius: 0px;
+    border: none;
+}
+
+.n-layout-sider-scroll-container {
+    box-shadow: inset 0px 10px 10px -10px rgba(0, 76, 255, 0.296);
+}
+
+.titlec {
+    margin-left: 20px;
+    height: 36px;
+    max-width: 300px;
+    transform: translateY(5px);
+}
+
+.titlei {
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.logoi {
+    display: inline;
+    transform: translateY(10px);
+}
+
+.userinfo {
+    position: absolute;
+    right: 30px;
+    top: 14px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.userinfo .n-button {
+    margin-left: 2em;
+    font-size: 14px;
+}
+
+.n-menu .n-menu-item-content.n-menu-item-content--selected .n-menu-item-content-header a {
+    color: #2080f0 !important;
+
+}
+
+.n-menu .n-menu-item-content.n-menu-item-content--selected::before,
+.n-menu .n-menu-item-content.n-menu-item-content--selected::after {
+    background-color: rgba(32, 128, 240, 0.16);
+}
+
+* {
+    --n-item-color-active-hover: rgba(23, 126, 244, 0.20) !important;
+}

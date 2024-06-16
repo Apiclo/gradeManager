@@ -1,4 +1,4 @@
-# score
+# Vite
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -16,14 +16,23 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### 运行请使用
+
+```bash
+cd ../
+sh revue.sh
+```
+
+### ~~Compile and Hot-Reload for Development~~
 
 ```sh
 npm run dev
+#作废了
 ```
 
-### Compile and Minify for Production
+### ~~Compile and Minify for Production~~
 
 ```sh
 npm run build
+#作废了
 ```
