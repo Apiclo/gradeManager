@@ -6,7 +6,6 @@
 -- 生成日期： 2024-06-15 12:36:05
 -- 服务器版本： 8.2.0
 -- PHP 版本： 8.2.19
--- 022201230237wcl
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
