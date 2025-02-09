@@ -1,5 +1,4 @@
 #/bin/zsh
-#022201230237 wcl
 #自动编译并运行springboot
 #自动替换vite静态资源
 #仅适用于Linux系统
